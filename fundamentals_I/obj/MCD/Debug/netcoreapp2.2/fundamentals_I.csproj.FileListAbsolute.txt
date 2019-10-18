@@ -1,0 +1,11 @@
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\bin\MCD\Debug\netcoreapp2.2\fundamentals_I.deps.json
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\bin\MCD\Debug\netcoreapp2.2\fundamentals_I.runtimeconfig.json
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\bin\MCD\Debug\netcoreapp2.2\fundamentals_I.runtimeconfig.dev.json
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\bin\MCD\Debug\netcoreapp2.2\fundamentals_I.dll
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\bin\MCD\Debug\netcoreapp2.2\fundamentals_I.pdb
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\obj\MCD\Debug\netcoreapp2.2\fundamentals_I.csprojAssemblyReference.cache
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\obj\MCD\Debug\netcoreapp2.2\fundamentals_I.csproj.CoreCompileInputs.cache
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\obj\MCD\Debug\netcoreapp2.2\fundamentals_I.AssemblyInfoInputs.cache
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\obj\MCD\Debug\netcoreapp2.2\fundamentals_I.AssemblyInfo.cs
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\obj\MCD\Debug\netcoreapp2.2\fundamentals_I.dll
+C:\Users\eleah\Documents\coding_dojo\C#\fundamentals_I\obj\MCD\Debug\netcoreapp2.2\fundamentals_I.pdb

@@ -1,0 +1,11 @@
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\obj\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.csprojAssemblyReference.cache
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\obj\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.csproj.CoreCompileInputs.cache
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\obj\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.AssemblyInfoInputs.cache
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\obj\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.AssemblyInfo.cs
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\bin\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.deps.json
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\bin\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.runtimeconfig.json
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\bin\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.runtimeconfig.dev.json
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\bin\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.dll
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\bin\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.pdb
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\obj\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.dll
+C:\Users\eleah\Documents\coding_dojo\C#\Escape_Room_RPG\obj\MCD\Debug\netcoreapp2.2\Escape_Room_RPG.pdb

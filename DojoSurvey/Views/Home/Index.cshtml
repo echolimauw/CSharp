@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Dojo Survey | Form</title>
+</head>
+<body>
+@model Survey
+    <div class="container">
+        <div class="form">
+            <form asp-action="SubmitForm" asp-controller="Home" method="post">
+                <span asp-validation-for="Name"></span>
+                <label asp-for="Name">Name: </label>
+                <input asp-for="Name"/>
+                <span asp-validation-for="Location"></span>
+                <label asp-for="Location">Location: </label>
+                <select asp-for="Location">
+                    <option value="Berkeley">Berkeley</option>
+                    <option value="Boise">Boise</option>
+                    <option value="Los Angeles">Los Angeles</option>
+                    <option value="Seattle">Seattle</option>
+                </select>
+                <span asp-validation-for="FavLanguage"></span>
+                <label asp-for="FavLanguage">Favorite Language: </label>
+                <select asp-for="FavLanguage">
+                    <option value="C#">C#</option>
+                    <option value="Java">Java</option>
+                    <option value="JavaScript">JavaScript</option>
+                    <option value="Python">Python</option>
+                </select>
+                <span asp-validation-for="Comment"></span>
+                <label asp-for="Comment">Comment (Optional): </label>
+                <input asp-for="Comment"/>
+                <button asp-for="submit">Submit</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
