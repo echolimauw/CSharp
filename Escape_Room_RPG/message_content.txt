@@ -1,0 +1,109 @@
+Basement:
+    Description:
+        You find yourself in a dimly lit basement. In the corner is a furnace with a wide chimney running up to the next floor. You can also see a fire extinguisher next to the furnace, a pipe wrench on the floor, a blow torch by the basement door and a screwdriver sitting on a work bench. You try to open the door but it is locked. You have to escape!
+    Options:
+        Fire extinguisher
+        Wrench
+        Blow torch
+        Screwdriver
+    Prompt: What would you like to use?
+    Fire Extinguisher:
+        Success: It worked! You smashed the door open with the fire extinguisher and escaped to the next room!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Wrench:
+        Success: It worked! You bashed the doorknob off and broke out! On to the next room!
+        Failure: Uh oh. The door is too sturdy for the wrench.
+
+    Blow Torch:
+        Success: Hurray! You melted the lock and kicked the door open! On to the next room!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Screwdriver:
+        Success: Well done! You picked the lock with the screwdriver and can move on to the next room!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Furnace (cheat):
+        Success: Ever the rebel, you just climb in the furnace and go up the chimney to the Game Room! See you there!
+
+Game Room:
+    Description: You emerge into a game room with various games and trophies scattered throughout. You see a dartboard on the wall, a Playstation with a Guitar Gyro controller plugged into it, a putter next to the putting green and stuffed taxidermy badger sitting on the mantle over the fireplace. This is better than a dark basement, but you're still not free.
+    Options:
+        Dart
+        Controller
+        Putter
+        Stuffed badger
+    Prompt: What would you like to use?
+    Dart:
+        Success: Great! You picked the door's lock with the dart and can move on to the next room!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Guitar Gyro Controller:
+        Success: Well done! You bashed the door open with the controller and can go to the next room!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Putter:
+        Success: Hurray! You smashed out the window in the door with the putter and unlocked it from the other side. On to the next room!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Stuffed Badger:
+        Success: That's one way to do it. You hurled the stuffed badger through the door and escape to the next room.
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Hack Playstation (cheat):
+        Success: Using your exceptional hacking skills, you use the Playstation to gain access to the electronic lock in the door, open it and escape.
+
+Atrium:
+    Description: You pass through the door into a brightly lit atrium. Walls surround the space filled with small trees and shrubs. Looking up, you can see the sky through a hole in the walls and a loose cable from the roof hanging down into the atrium. In the atrium, you see a ladder set along the wall with a rake propped up over it. Next to the rake is a dirty shovel. Finally, there is a garden hose loosely coiled around a bearded garden gnome.
+    Options:
+        Ladder
+        Rake
+        Shovel
+        Hose
+    Prompt: What would you like to use?
+    Ladder:
+        Success: Perfect! You prop the ladder up against a wall and climb up to the roof!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Rake:
+        Success: Good thinking! You reach up to the hanging cable with the rake and climb up to the roof!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Shovel:
+        Success: It worked! You swing the shovel up, catch the hanging cable and climb up to the roof!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Hose:
+        Success: Good arm! You throw the end of the hose up to the roof. It hooks onto something and you climb up!
+        Failure: Oh, no. That didn't work at all. Try something else.
+
+    Gnome (cheat):
+        Success: You walk over to the garden gnome and stroke its beard. It springs to life and says "Oh, thank you! You've broken the curse and given me my life back! To thank you, let me help you on your way!" You are teleported to the roof!
+
+Roof:
+    Description: You're finally to the roof and you have nearly escaped! All you have to do is figure out a safe way down. Looking around, you see the loose cable attached to the roof and a kite that must have come free from its string. There is a hammock next to the pool that might be able to catch you and break your fall. There is also a branch from a tree that you might be able to reach and then climb down.
+    Options:
+        Cable
+        Kite
+        Hammock
+        Branch
+    Prompt: What would you like to use?
+    Cable:
+        Success: Nice work! You climb down the loose cable to safety! You escaped! Congratulations! Play again?
+        Failure: That cable isn't going to hold. Try something else.
+
+    Kite:
+        Success: Good thinking! You hang on to the kite, jump off the roof and float down to safety! You escaped! Congratulations! Play again?
+        Failure: Interesting idea, but that seems unsafe. Try something else.
+
+    Hammock:
+        Success: Wow! You bravely leap down to the hammock, landing safely. You escaped! Congratulations! Play again?
+        Failure: Looking down, there's no way you'll survive that. Try something else.
+
+    Branch:
+        Success: You reach out to the branch, barely grabbing on. You climb down the tree to safety.  You escaped! Congratulations! Play again?
+        Failure: You cant' reach the branch. Try something else.
+
+    Pool (cheat):
+        Success: Amazing! You take a running jump off the roof and land in the swimming pool! You've escaped! Congratulations! Play again?
+        Failure: Truly amazing! You choose to jump off the roof, trying to hit the swimming pool! You get pretty close, too. Sadly, you miss. This is the end of your decision tree. Play again?
